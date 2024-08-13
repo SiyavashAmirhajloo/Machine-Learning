@@ -1,3 +1,12 @@
 [submodule "uiml-4021-hw1-SiyavashAmirhajloo"]
 	path = uiml-4021-hw1-SiyavashAmirhajloo
 	url = https://github.com/UIML-4021/uiml-4021-hw1-SiyavashAmirhajloo
+[submodule "uiml-4021-hw2-SiyavashAmirhajloo"]
+	path = uiml-4021-hw2-SiyavashAmirhajloo
+	url = https://github.com/UIML-4021/uiml-4021-hw2-SiyavashAmirhajloo
+[submodule "uiml-4021-hw3-SiyavashAmirhajloo"]
+	path = uiml-4021-hw3-SiyavashAmirhajloo
+	url = https://github.com/UIML-4021/uiml-4021-hw3-SiyavashAmirhajloo
+[submodule "uiml-4021-hw4-SiyavashAmirhajloo"]
+	path = uiml-4021-hw4-SiyavashAmirhajloo
+	url = https://github.com/UIML-4021/uiml-4021-hw4-SiyavashAmirhajloo
